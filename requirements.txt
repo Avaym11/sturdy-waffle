@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+moviepy
+pyannote.audio
+torch
+torchaudio
+soundfile
+librosa
+streamlit-mermaid
